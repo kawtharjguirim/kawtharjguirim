@@ -1,12 +1,7 @@
 {
   "username": "kawtharjguirim",
-  "fetched_at": "2026-08-15T06:59:45.741403+00:00",
+  "fetched_at": "2026-08-16T07:01:30.356565+00:00",
   "days": [
-    {
-      "date": "2025-08-10",
-      "level": 0,
-      "count": null
-    },
     {
       "date": "2025-08-17",
       "level": 0,
@@ -268,7 +263,7 @@
       "count": null
     },
     {
-      "date": "2025-08-11",
+      "date": "2026-08-16",
       "level": 0,
       "count": null
     },
@@ -533,11 +528,6 @@
       "count": null
     },
     {
-      "date": "2025-08-12",
-      "level": 0,
-      "count": null
-    },
-    {
       "date": "2025-08-19",
       "level": 0,
       "count": null
@@ -795,11 +785,6 @@
     {
       "date": "2026-08-11",
       "level": 1,
-      "count": null
-    },
-    {
-      "date": "2025-08-13",
-      "level": 0,
       "count": null
     },
     {
@@ -1063,11 +1048,6 @@
       "count": null
     },
     {
-      "date": "2025-08-14",
-      "level": 0,
-      "count": null
-    },
-    {
       "date": "2025-08-21",
       "level": 0,
       "count": null
@@ -1325,11 +1305,6 @@
     {
       "date": "2026-08-13",
       "level": 1,
-      "count": null
-    },
-    {
-      "date": "2025-08-15",
-      "level": 0,
       "count": null
     },
     {
@@ -1593,11 +1568,6 @@
       "count": null
     },
     {
-      "date": "2025-08-16",
-      "level": 0,
-      "count": null
-    },
-    {
       "date": "2025-08-23",
       "level": 0,
       "count": null
@@ -1854,16 +1824,16 @@
     },
     {
       "date": "2026-08-15",
-      "level": 0,
+      "level": 1,
       "count": null
     }
   ],
   "stats": {
-    "total_last_year": 96,
+    "total_last_year": 97,
     "current_streak": 0,
-    "longest_streak": 12,
+    "longest_streak": 13,
     "best_day": {
-      "date": "2025-08-10",
+      "date": "2025-08-17",
       "level": 0,
       "count": null
     },

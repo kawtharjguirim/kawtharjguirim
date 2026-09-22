@@ -1,4 +1,4 @@
-<div align="center">
+<div align="centeer">
 
 <h3><code>kawthar@github ~ $ ./contributions.sh</code></h3>
 <img src="./kawthar-contrib-heatmap.svg" width="860" />

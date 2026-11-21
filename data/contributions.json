@@ -1,6 +1,6 @@
 {
   "username": "kawtharjguirim",
-  "fetched_at": "2026-11-20T15:31:17.525164+00:00",
+  "fetched_at": "2026-11-21T14:43:02.974359+00:00",
   "days": [
     {
       "date": "2025-11-16",
@@ -1589,7 +1589,7 @@
     },
     {
       "date": "2026-11-20",
-      "level": 0,
+      "level": 1,
       "count": null
     },
     {
@@ -1851,12 +1851,17 @@
       "date": "2026-11-14",
       "level": 1,
       "count": null
+    },
+    {
+      "date": "2026-11-21",
+      "level": 0,
+      "count": null
     }
   ],
   "stats": {
-    "total_last_year": 228,
+    "total_last_year": 230,
     "current_streak": 0,
-    "longest_streak": 109,
+    "longest_streak": 110,
     "best_day": {
       "date": "2025-11-16",
       "level": 0,
